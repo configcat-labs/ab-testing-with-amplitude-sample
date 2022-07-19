@@ -31,8 +31,8 @@ You can also explore other code samples for various languages, frameworks, and t
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
 ## Author
-[Gergely Sinka](https://github.com/sigewuzhere)
-[Peter Csajtai](https://github.com/z4kn4fein)
+- [Gergely Sinka](https://github.com/sigewuzhere)
+- [Peter Csajtai](https://github.com/z4kn4fein)
 
 ## Contributions
 Contributions are welcome!
